@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE receta SYSTEM "3_actividad.dtd">
+<receta raciones="20" dificultad="baja">
+    <nombre>paellita</nombre>
+    <ingredientes>
+        <ingrediente cantidad="1000" unidad="g">arroz bomba</ingrediente>
+        <ingrediente cantidad="1" unidad="l">caldo de pollo hacendado</ingrediente>
+        <ingrediente cantidad="50000" unidad="g">pollo hacendado</ingrediente>
+        <ingrediente cantidad="0" unidad="g">el marisco da asco. no pongas marisco.</ingrediente>
+        <ingrediente>sal</ingrediente>
+    </ingredientes>
+    <elaboracion>
+        1. llma a tu madre y dile que te haga la paella.
+        2. si no tienes madre, llama a tu padre.
+        3. si no tienes padres, llama a tu abuela.
+        4. Abrir federico y cojer cervecita.
+        5. poner nexflix y esperar a que te traigan la paella.  
+        6. Disfrutar de la vida.
+    </elaboracion>
+</receta>

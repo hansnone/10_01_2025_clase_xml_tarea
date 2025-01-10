@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viajes>
+    <cliente>
+        <nombre>fulano de mengano</nombre>
+        <fecha_inicio>01-01-2025</fecha_inicio>
+        <fecha_fin>15-01-2025</fecha_fin>
+        <origen>madrid</origen>
+        <destinos>
+            <destino>
+                <ciudad>barcelona</ciudad>
+                <hotel>hotel independencia</hotel>
+                <noches>3</noches>
+                <precio>100</precio>
+            </destino>
+            <destino>
+                <ciudad>valencia</ciudad>
+                <hotel>hotel valencia</hotel>
+                <noches>2</noches>
+                <precio>200</precio>
+            </destino>
+        </destinos>
+    </cliente>
+    <cliente>
+        <nombre>benito mussolini</nombre>
+        <fecha_inicio>01-01-2025</fecha_inicio>
+        <fecha_fin>30-01-2025</fecha_fin>
+        <origen>sevilla</origen>
+        <destinos>
+            <destino>
+                <ciudad>murcia</ciudad>
+                <hotel>hostal murcia</hotel>
+                <noches>4</noches>
+                <precio>300</precio>
+            </destino>
+            <destino>
+                <ciudad>sevilla</ciudad>
+                <hotel>Hotel moreno</hotel>
+                <noches>3</noches>
+                <precio>400</precio>
+            </destino>
+        </destinos>
+    </cliente>
+    <cliente>
+        <nombre>adolfo dar-menos</nombre>
+        <fecha_inicio>01-01-2025</fecha_inicio>
+        <fecha_fin>20-01-2025</fecha_fin>
+        <origen>hobiton</origen>
+        <destinos>
+            <destino>
+                <ciudad>san se</ciudad>
+                <hotel>hotel san se</hotel>
+                <noches>2</noches>
+                <precio>500</precio>
+            </destino>
+            <destino>
+                <ciudad>salamanca</ciudad>
+                <hotel>hotel salamanca</hotel>
+                <noches>3</noches>
+                <precio>600</precio>
+            </destino>
+        </destinos>
+    </cliente>
+</viajes>

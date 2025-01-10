@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cv SYSTEM "2_cv_pedro_de_cabo_arroyo.dtd">
+<cv>
+    <nombre>pedro de cabo</nombre>
+    <direccion>calle optometrista 55, madrid, españa</direccion>
+    <telefono>123456789</telefono>
+    <email>noseque@gmail,.com</email>
+    <email>noseque@gmail,.com</email>
+    <idiomas>
+        <idioma>español</idioma>
+        <idioma>ingles</idioma>
+    </idiomas>
+</cv>

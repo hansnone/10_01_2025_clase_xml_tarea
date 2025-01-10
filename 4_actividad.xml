@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listafacturas SYSTEM "4_actividad.dtd">
+<listafacturas>
+    <factura fecha="01-01-2025">
+        <emisor cif="123456789">
+            <nombre>una empresa emisora s.l</nombre>
+            <volumenventas>1000</volumenventas>
+        </emisor>
+        <pagador cif="123456789">
+            <nombre>otra empresa s.l</nombre>
+            <volumenventas>1000</volumenventas>
+        </pagador>
+        <importe>1000</importe>
+    </factura>
+    <factura>
+        <emisor cif="123456789">
+            <nombre>dios santo otra empresa s.l.</nombre>
+        </emisor>
+        <pagador cif="123456789">
+            <nombre>cristo cuanto dinero pago s.l</nombre>
+        </pagador>
+        <importe>1000</importe>
+    </factura>
+</listafacturas>
