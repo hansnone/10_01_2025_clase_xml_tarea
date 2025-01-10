@@ -4,7 +4,7 @@
     <nombre>paellita</nombre>
     <ingredientes>
         <ingrediente cantidad="1000" unidad="g">arroz bomba</ingrediente>
-        <ingrediente cantidad="1" unidad="l">caldo de pollo hacendado</ingrediente>
+        <ingrediente cantidad="10" unidad="l">caldo de pollo hacendado</ingrediente>
         <ingrediente cantidad="50000" unidad="g">pollo hacendado</ingrediente>
         <ingrediente cantidad="0" unidad="g">el marisco da asco. no pongas marisco.</ingrediente>
         <ingrediente>sal</ingrediente>

@@ -2,7 +2,7 @@
 <!DOCTYPE listafacturas SYSTEM "4_actividad.dtd">
 <listafacturas>
     <factura fecha="01-01-2025">
-        <emisor cif="123456789">
+        <emisor cif="12325456789">
             <nombre>una empresa emisora s.l</nombre>
             <volumenventas>1000</volumenventas>
         </emisor>
